@@ -1,10 +1,11 @@
 # 🏎️ Sprunki 1996
+## 🔗 Links
+
+- Play [Sprunki 1996](https://sprunki1996.online/) Now!
 
 ![Sprunki 1996 Banner](https://game.sprunki1996.online/image/sprunki-1996.png)
 
-## 🔗 Links
 
-- Play[Sprunki 1996](https://sprunki1996.online/) Now!
 
 ## Overview
 
